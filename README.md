@@ -1,7 +1,17 @@
-![Header](https://github.com/Ello-prog/Ello-prog/blob/main/assets/BMW%20drift.gif)]gi
+![Header](https://github.com/Ello-prog/Ello-prog/blob/main/assets/BMW%20drift.gif)]
 
-About me
 
-Languages and Tools
+## About me
+Привет! Я начинающий разработчик, изучаю веб-технологии.
 
-Foolow me
+В планах создавать красивые и функциональыне веб-сайты
+- 🌱 Сейчас изучаю: HTML, CSS, JavaScript
+
+
+## Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
